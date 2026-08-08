@@ -1,0 +1,9 @@
+//Exercicio 09
+/*
+Construa uma página web capaz de solicitar ao usuário uma expressão matemática, como por exemplo ((5*8)-9), 
+e, em seguida, informar, através de uma mensagem de alerta, o resultado da expressão. 
+ */
+
+let funcaoMatematica = prompt("Digite uma expressão matemática:");
+resultado = eval(funcaoMatematica);
+alert(resultado);

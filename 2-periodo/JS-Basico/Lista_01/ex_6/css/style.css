@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.exercicio6 {
+  color: red;
+  font-size: 20px;
+  text-align: center;
+}
